@@ -1,8 +1,8 @@
 {
   "description":
-    "TFCloud is a major Chinese cloud provider. It is part of the Tsinghua TongFang Group and was the first golden member of the OpenStack Foundation. The company offers clients both managed cloud and distributed storage services.",
+    "TFCloud, part of Tongfang, is the first golden member of the OpenStack Foundation and the first company in the Chinese industry to provide a private cloud service. The company offers clients both managed cloud and distributed storage services. TFCloud has made available their servers with Intel Software Guard Extensions (SGX) for computations using the iExec end-to-end TEE solution.",
   "social": {
-    "website": "https://www.tfcloud.com/"
+    "website": "https://tfcloud-pool.iex.ec/"
   },
   "logo": "logo.jpg",
   "workerPool": {
