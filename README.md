@@ -2,13 +2,13 @@
 
 In order to list your Worker Pool on the [iExec Pool Registry](https://pools.iex.ec/), you need to make it into the iExec Pools Registry. But relax, it's very easy:
 
-Once you created and deployed your iExec WorkerPool using the [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk), here are the 5 steps that remain to enter this registry:
+Once you created and deployed your iExec WorkerPool using the [iExec SDK](https://github.com/iExecBlockchainComputing/iexec-sdk/tree/next), here are the 5 steps that remain to enter this registry:
 
 ## 1. Github Fork this repo
 
-clic on the github "Fork" button and `git clone` the **forked** repository on your local machine.
+clic on the github "Fork" button and `git clone` the **forked** repository on your local machine and `git checkout v3` the v3 branch.
 
-[![github fork](./github-fork.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/tree/v2#fork-destination-box)
+[![github fork](./github-fork.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/tree/v3)
 
 ## 2. Create 2 new folders
 
@@ -32,7 +32,7 @@ Once the validation is successful, you can commit & push your pool config.
 
 ## 5. Github Pull Request
 
-clic on this button to create a Pull Request (from your **forked master branch** TO **iexec-pools-registry master branch**):
+clic on this button to create a Pull Request (from your **forked v3 branch** TO **iexec-pools-registry v3 branch**):
 
 [![github pull request](./github-pr.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/compare)
 
