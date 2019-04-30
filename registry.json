@@ -2,51 +2,41 @@
   {
     "org": "iExecBlockchainComputing",
     "name": "Kovan",
-    "created": "2018-01-15T16:05:05.120Z"
+    "created": "2019-04-29T16:00:00.120Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "Bench",
-    "created": "2018-01-16T16:05:05.120Z"
-  },
-  {
-    "org": "iExecBlockchainComputing",
-    "name": "Dev",
-    "created": "2018-01-16T16:05:05.120Z"
+    "name": "Jupiter",
+    "created": "2019-04-29T16:00:00.120Z"
   },
   {
     "org": "iExecBlockchainComputing",
     "name": "Tee",
-    "created": "2018-10-29T16:05:05.120Z"
-  },
-  {
-    "org": "Nerdalize",
-    "name": "Nerdalize",
-    "created": "2018-01-16T16:05:05.120Z"
-  },
-  {
-    "org": "Stimergy",
-    "name": "Stimergy",
-    "created": "2018-01-16T16:05:05.120Z"
-  },
-  {
-    "org": "Qarnot",
-    "name": "Qarnot",
-    "created": "2018-01-16T16:05:05.120Z"
+    "created": "2019-04-29T16:00:00.120Z"
   },
   {
     "org": "CloudAndHeat",
     "name": "Cloud&Heat",
-    "created": "2018-01-16T16:05:05.120Z"
+    "created": "2019-04-29T16:00:00.120Z"
   },
   {
     "org": "TFCloud",
     "name": "TFCloud",
-    "created": "2018-01-16T16:05:05.120Z"
+    "created": "2019-04-29T16:00:00.120Z"
   },
   {
     "org": "IBMCloud",
     "name": "IBMCloud",
-    "created": "2018-11-21T16:05:05.120Z"
+    "created": "2019-04-29T16:00:00.120Z"
+  },
+  {
+    "org": "AlibabaCloud",
+    "name": "AlibabaCloud",
+    "created": "2019-04-29T16:00:00.120Z"
+  },
+  {
+    "org": "Qarnot",
+    "name": "Qarnot",
+    "created": "2019-04-29T16:00:00.120Z"
   }
 ]
