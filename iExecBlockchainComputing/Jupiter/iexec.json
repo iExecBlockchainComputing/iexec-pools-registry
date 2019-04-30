@@ -1,0 +1,11 @@
+{
+  "description": "The iExec Jupiter Worker Pool is a worker pool managed by iExec. This worker pool is dedicated to the heavy testing of decentralized applications in early stages.",
+  "social": {
+    "website": "https://jupiter-pool.iex.ec"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "description": "jupiter-pool",
+    "owner": "0xe9e34b370b67f1285c1dcd9a631c11a20fe65ef3"
+  }
+}

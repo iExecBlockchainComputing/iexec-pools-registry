@@ -1,14 +1,11 @@
 {
-  "description":
-    "IBM Cloud is a suite of cloud computing services from IBM that offers both platform-as-a-service (PaaS) and infrastructure-as-a-service (IaaS). It is a full-stack cloud platform that spans public, private and hybrid environments. The IBM Cloud machines provide a high degree of security and privacy to enterprises running code on its cloud thanks to the IBM zero-trust architecture, whereby the user has complete assurance that no one else can access their data. IBM is currently the only cloud provider that offers access to bare metal servers with Intel Software Guard Extensions (SGX) at its data centers.",
+  "description": "IBM Cloud is a suite of cloud computing services from IBM that offers both platform-as-a-service (PaaS) and infrastructure-as-a-service (IaaS). It is a full-stack cloud platform that spans public, private and hybrid environments. The IBM Cloud machines provide a high degree of security and privacy to enterprises running code on its cloud thanks to the IBM zero-trust architecture, whereby the user has complete assurance that no one else can access their data. IBM is currently the only cloud provider that offers access to bare metal servers with Intel Software Guard Extensions (SGX) at its data centers.",
   "social": {
     "website": "https://ibm-pool.iex.ec/"
   },
   "logo": "logo.jpg",
-  "workerPool": {
-    "description": "ibm-pool-1",
-    "subscriptionLockStakePolicy": 100,
-    "subscriptionMinimumStakePolicy": 100,
-    "subscriptionMinimumScorePolicy": 100
+  "workerpool": {
+    "description": "ibm-pool",
+    "owner": "0xb3e18484e74d61c3ce115f3e6f9f2960e36be832"
   }
 }
