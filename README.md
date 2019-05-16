@@ -6,7 +6,7 @@ Once you created and deployed your iExec WorkerPool using the [iExec SDK](https:
 
 ## 1. Github Fork this repo
 
-clic on the github "Fork" button and `git clone` the **forked** repository on your local machine.
+click on the github "Fork" button and `git clone` the **forked** repository on your local machine.
 
 [![github fork](./github-fork.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/tree/v2#fork-destination-box)
 
@@ -36,4 +36,4 @@ clic on this button to create a Pull Request (from your **forked master branch**
 
 [![github pull request](./github-pr.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/compare)
 
-**We'll review you Pool and if it meets all the above criteria, it will be added to the iExec Pool Regsitry!**
+**We'll review you Pool and if it meets all the above criteria, it will be added to the iExec Pool Registry!**
