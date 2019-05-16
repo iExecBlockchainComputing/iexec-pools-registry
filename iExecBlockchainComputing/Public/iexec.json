@@ -1,0 +1,11 @@
+{
+  "description": "The first public worker pool on iExec. Connect your machine right now, execute tasks and earn RLC tokens. Everyone is welcome to join this worker pool.",
+  "social": {
+    "website": "https://public-pool.iex.ec"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "description": "public-pool",
+    "owner": "0x664e002e19e32ea45369c161399646510c5de3c8"
+  }
+}
