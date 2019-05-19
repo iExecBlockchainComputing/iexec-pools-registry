@@ -1,0 +1,12 @@
+{
+  "description":
+    "Community driven workerpool, created and managed by Callum. Using SGX and TEE to make our works as secure and fast as possible. Please speak to @calpun on Telegram about joining this workerpool.",
+  "social": {
+    "website": "https://dead-pool.iex.ec/"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "owner": "0x3CAd7dA254C38138342Bf818C4BF74Fb985D1F1b",
+    "description": "deadpool"
+  }
+}
