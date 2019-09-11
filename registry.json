@@ -11,32 +11,7 @@
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "Jupiter",
-    "created": "2019-04-29T16:00:00.120Z"
-  },
-  {
-    "org": "iExecBlockchainComputing",
     "name": "Kovan-TEE",
-    "created": "2019-04-29T16:00:00.120Z"
-  },
-  {
-    "org": "CloudAndHeat",
-    "name": "Cloud&Heat",
-    "created": "2019-04-29T16:00:00.120Z"
-  },
-  {
-    "org": "TFCloud",
-    "name": "TFCloud",
-    "created": "2019-04-29T16:00:00.120Z"
-  },
-  {
-    "org": "IBMCloud",
-    "name": "IBMCloud",
-    "created": "2019-04-29T16:00:00.120Z"
-  },
-  {
-    "org": "AlibabaCloud",
-    "name": "AlibabaCloud",
     "created": "2019-04-29T16:00:00.120Z"
   },
   {
