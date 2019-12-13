@@ -1,0 +1,11 @@
+{
+  "description": "The iExec worker pool for Intel SGX-enables machines on iExec sidechain. For use with the iExec end-to-end Trusted Execution (TEE) solution. A TEE is a secure area of a main processor. It guarantees code and data loaded inside to be protected with respect to confidentiality and integrity.",
+  "social": {
+    "website": "https://bellecour-tee-pool.iex.ec"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "description": "bellecour-tee-pool",
+    "owner": "0x00Bd3f14808A50d3dA431A593CDa058A854Cb7d3"
+  }
+}

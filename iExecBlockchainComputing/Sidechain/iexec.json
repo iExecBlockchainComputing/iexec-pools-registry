@@ -1,0 +1,11 @@
+{
+  "description": "The first worker pool on iExec sidechain. iExec sidechain is cheaper and faster than Ethereum mainnet. Execute tasks and earn xRLC tokens on iExec sidechain.",
+  "social": {
+    "website": "https://bellecour-pool.iex.ec"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "description": "bellecour-pool",
+    "owner": "0x00BC3896ccEbD9A3F53786Cab2aD535Cd92D8b60"
+  }
+}
