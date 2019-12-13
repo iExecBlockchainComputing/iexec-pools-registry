@@ -1,5 +1,5 @@
 {
-  "description": "The first worker pool for GPU on iExec sidechain. GPU pool can execute GPU applications. Execute tasks and earn xRLC tokens on iExec sidechain.",
+  "description": "The first worker pool for GPU on iExec sidechain. Sidechain GPU pool can execute GPU applications. Execute tasks and earn xRLC tokens on iExec sidechain.",
   "social": {
     "website": "https://bellecour-gpu-pool.iex.ec"
   },
