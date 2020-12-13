@@ -1,7 +1,5 @@
 {
-  "description": "A Workerpool running on AWS by hval.es",
-  "license": "MIT",
-  "author": "Dr. Hector Valverde <hvpareja@gmail.com>",
+  "description": "A Workerpool running on AWS by hval.es - The machine is currently a m4.2xlarge, with 32Gb of memory and 8vCPUs. It is maintained by a single developer who can be found here: hval.es",
   "social": {
     "website": "hval.es",
     "github": "hvpareja"
