@@ -1,0 +1,12 @@
+{
+  "description": "Grousset Technologies operates from the South of France. Originally into mining operations, we're opening to other inovative projects. Hosting is made on industry grade HP Blade hardware, located in temperature controlled room provided with high-speed fiber internet connection and stable power, allowing a 24/7 service continuity.",
+  "social": {
+    "website": "http://www.grousset.com",
+    "github": "grousset-technologies"
+  },
+  "logo": "atlantis.png",
+  "workerpool": {
+    "owner": "0xaC2c574B5A347c5D10147E6A4bAc42Eb0C585937",
+    "description": "Atlantis"
+  }
+}
