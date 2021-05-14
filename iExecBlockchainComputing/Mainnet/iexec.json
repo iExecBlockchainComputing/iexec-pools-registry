@@ -1,0 +1,11 @@
+{
+  "description": "The iExec Mainnet Workerpool is a workerpool managed by iExec. It allows developers to power their decentralized applications for Ethereum Mainnet on the iExec cloud. iExec Mainnet workerpool enables Trusted-Execution-Environment for compatible applications",
+  "social": {
+    "website": "https://main-pool.mainnet.iex.ec/"
+  },
+  "logo": "logo.jpg",
+  "workerpool": {
+    "description": "Main-Pool",
+    "owner": "0x0ecf34b8CB4B691FafF4C5E6FDd991E2E349172D"
+  }
+}
