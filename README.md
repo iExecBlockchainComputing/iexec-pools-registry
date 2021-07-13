@@ -6,9 +6,9 @@ Once you created and deployed your iExec WorkerPool using the [iExec SDK](https:
 
 ## 1. Github Fork this repo
 
-clic on the github "Fork" button and `git clone` the **forked** repository on your local machine and `git checkout v5` the v5 branch.
+clic on the github "Fork" button and `git clone` the **forked** repository on your local machine and `git checkout v6` the v6 branch.
 
-[![github fork](./github-fork.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/tree/v5)
+[![github fork](./github-fork.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/tree/v6)
 
 ## 2. Create 2 new folders
 
@@ -32,7 +32,7 @@ Once the validation is successful, you can commit & push your pool config.
 
 ## 5. Github Pull Request
 
-clic on this button to create a Pull Request (from your **forked v5 branch** TO **iexec-pools-registry v5 branch**):
+clic on this button to create a Pull Request (from your **forked v6 branch** TO **iexec-pools-registry v6 branch**):
 
 [![github pull request](./github-pr.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/compare)
 
