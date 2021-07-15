@@ -1,5 +1,5 @@
 {
-  "description": "This iExec Workerpool, hosted on the iExec sidechain, is a production ready plateform for Standards and Trusted-Execution-Environment applications",
+  "description": "This iExec Workerpool, hosted on the iExec sidechain, is a production ready plateform for running Standards, Secrets, and Trusted-Execution-Environment applications.",
   "social": {
     "website": "https://v6.prod-main-pool.bellecour.iex.ec"
   },

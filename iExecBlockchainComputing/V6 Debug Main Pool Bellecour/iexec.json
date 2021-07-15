@@ -1,5 +1,5 @@
 {
-  "description": "This iExec Workerpool, hosted on the iExec sidechain, is a debugging plateform for Standards and Trusted-Execution-Environment applications",
+  "description": "This iExec debug Workerpool, hosted on the iExec sidechain, is a debugging plateform for developers using Standards and Trusted-Execution-Environment applications",
   "social": {
     "website": "https://v6.debug-main-pool.bellecour.iex.ec"
   },
