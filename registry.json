@@ -1,32 +1,37 @@
 [
   {
     "org": "iExecBlockchainComputing",
-    "name": "Goerli",
-    "created": "2020-05-29T12:00:00.000Z"
+    "name": "V6 Debug Main Pool Viviani",
+    "created": "2021-07-01T12:00:00.000Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "Mainnet",
-    "created": "2020-07-20T12:00:00.000Z"
+    "name": "V6 Prod Main Pool Viviani",
+    "created": "2021-07-02T12:00:00.000Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "Enterprise",
-    "created": "2021-01-12T12:00:00.000Z"
+    "name": "V6 Debug Main Pool Bellecour",
+    "created": "2021-07-03T12:00:00.000Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "Goerli Enterprise",
-    "created": "2020-12-08T12:00:00.000Z"
+    "name": "V6 Prod Main Pool Bellecour",
+    "created": "2021-07-04T12:00:00.000Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "iExec Sidechain",
-    "created": "2020-07-13T12:00:00.000Z"
+    "name": "V6 Prod Main Pool Mainnet",
+    "created": "2021-07-05T12:00:00.000Z"
   },
   {
     "org": "iExecBlockchainComputing",
-    "name": "iExec Testchain",
-    "created": "2020-07-13T12:00:00.000Z"
+    "name": "V6 Prod Main Pool Enterprise",
+    "created": "2021-07-06T12:00:00.000Z"
+  },
+  {
+    "org": "iExecBlockchainComputing",
+    "name": "V6 Debug Audit Pool Viviani",
+    "created": "2021-07-07T12:00:00.000Z"
   }
 ]

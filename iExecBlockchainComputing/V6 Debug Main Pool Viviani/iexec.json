@@ -1,0 +1,11 @@
+{
+  "description": "This iExec Workerpool, hosted on the iExec testnet sidechain, is a debugging plateform for developpers working on Standards and Trusted-Execution-Environment applications",
+  "social": {
+    "website": "https://v6.debug-main-pool.viviani.iex.ec"
+  },
+  "logo": "logo.svg",
+  "workerpool": {
+    "description": "V6 Debug Main Pool Viviani",
+    "owner": "0x0afb49362402DC5B1E6fb6247645919764776358"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "description": "This iExec Workerpool, is an Enterprise dedicated production plateform for Standards and Trusted-Execution-Environment applications. KYC process nedeed before using",
+  "social": {
+    "website": "https://v6.prod-main-pool-enterprise.mainnet.iex.ec"
+  },
+  "logo": "logo.svg",
+  "workerpool": {
+    "description": "V6 Prod Main Pool Enterprise",
+    "owner": "0x0f1f9a074a56dde175586848feb4654b3525b9e8"
+  }
+}

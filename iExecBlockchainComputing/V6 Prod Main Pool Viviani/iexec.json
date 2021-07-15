@@ -1,0 +1,11 @@
+{
+  "description": "This iExec Workerpool, hosted on the iExec testnet sidechain, is a production ready plateform for Standards, Secrets and Trusted-Execution-Environment applications.",
+  "social": {
+    "website": "https://v6.prod-main-pool.viviani.iex.ec"
+  },
+  "logo": "logo.svg",
+  "workerpool": {
+    "description": "V6 Prod Main Pool Viviani",
+    "owner": "0x0B1F0B79Dd9Ec423E5b405dD21669B7Df1c1Ba7d"
+  }
+}
