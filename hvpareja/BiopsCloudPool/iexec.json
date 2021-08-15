@@ -1,0 +1,12 @@
+{
+  "description": "A Workerpool running on AWS by hval.es - The machine is currently a m4.2xlarge, with 32Gb of memory and 8vCPUs. It is maintained by a single developer who can be found here: hval.es",
+  "social": {
+    "website": "hval.es",
+    "github": "hvpareja"
+  },
+  "logo": "logo.png",
+  "workerpool": {
+    "owner": "0xE2e47F28a41a5A2743568777448a42Ff288e6eE1",
+    "description": "Workerpool at iexec.biops.cloud"
+  }
+}
