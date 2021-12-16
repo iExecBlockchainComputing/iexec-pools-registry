@@ -1,11 +1,11 @@
 {
   "description": "This iExec Workerpool, hosted on Ethereum mainnet, is a production ready plateform for Standards, Secrets and Trusted-Execution-Environment applications.",
   "social": {
-    "website": "https://v6.prod-main-pool.mainnet.iex.ec"
+    "website": "https://v7.prod-main-pool.mainnet.iex.ec"
   },
   "logo": "logo.svg",
   "workerpool": {
-    "description": "V6 Prod Main Pool Mainnet",
-    "owner": "0x54490A494762630aD11938442b8760Ed81E0a7E8"
+    "description": "V7 Mainnet - Sgx Production",
+    "owner": "0x0ecf34b8cb4b691faff4c5e6fdd991e2e349172d"
   }
 }
