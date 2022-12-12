@@ -1,16 +1,6 @@
 [
   {
     "org": "iExecBlockchainComputing",
-    "name": "V7 Viviani - Sgx Developper",
-    "created": "2021-12-12T12:00:00.000Z"
-  },
-  {
-    "org": "iExecBlockchainComputing",
-    "name": "V7 Viviani - Sgx Production",
-    "created": "2021-12-12T12:00:00.000Z"
-  },
-  {
-    "org": "iExecBlockchainComputing",
     "name": "V7 Bellecour - Sgx Developper",
     "created": "2021-12-16T12:00:00.000Z"
   },
