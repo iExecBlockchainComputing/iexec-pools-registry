@@ -32,7 +32,7 @@ Once the validation is successful, you can commit & push your pool config.
 
 ## 5. Github Pull Request
 
-click on this button to create a Pull Request (from your **forked v5 branch** TO **iexec-pools-registry v5 branch**):
+click on this button to create a Pull Request (from your **forked branch** TO **iexec-pools-registry**):
 
 [![github pull request](./github-pr.png)](https://github.com/iExecBlockchainComputing/iexec-pools-registry/compare)
 
